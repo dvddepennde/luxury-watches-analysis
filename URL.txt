@@ -1,0 +1,2 @@
+Notebook in Kaggle: https://www.kaggle.com/code/dbf19alu/min-datos-p2-dbf19-luxury-watches
+Dataset: https://www.kaggle.com/datasets/rkiattisak/luxury-watches-price-dataset
