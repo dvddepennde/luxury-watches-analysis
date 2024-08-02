@@ -3,7 +3,7 @@
 This project focuses on predicting watch prices, classifying watches based on their prices, and performing clustering to identify similar groups of watches. Standard machine learning algorithms are used for this purpose using techniques such as Cross Validation and Data Augmentation.
 
 ## Author
-[David Bernabeu Ferrer](www.linkedin.com/in/david-bernabeu-data-engineer)
+[David Bernabeu Ferrer](https://www.linkedin.com/in/david-bernabeu-data-engineer)
 
 ## Project Description
 The main objective of this project is to apply machine learning techniques to solve three key tasks related to watches:
